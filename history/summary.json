@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tradepost.ai.ico",
     "slug": "tradepost-ai",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 1954,
-    "timeDay": 1670,
-    "timeWeek": 1976,
-    "timeMonth": 1920,
-    "timeYear": 1954,
-    "dailyMinutesDown": {
-      "2023-12-12": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1937,
+    "timeDay": 1308,
+    "timeWeek": 1851,
+    "timeMonth": 1885,
+    "timeYear": 1937,
+    "dailyMinutesDown": {}
   }
 ]
