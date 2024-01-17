@@ -4,17 +4,19 @@
     "url": "https://tradepost.ai",
     "icon": "https://icons.duckduckgo.com/ip3/tradepost.ai.ico",
     "slug": "tradepost-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1907,
-    "timeDay": 1906,
-    "timeWeek": 2028,
-    "timeMonth": 1812,
-    "timeYear": 1907,
-    "dailyMinutesDown": {}
+    "time": 1888,
+    "timeDay": 1079,
+    "timeWeek": 1806,
+    "timeMonth": 1763,
+    "timeYear": 1888,
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   }
 ]
