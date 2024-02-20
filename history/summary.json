@@ -4,7 +4,7 @@
     "url": "https://tradepost.ai",
     "icon": "https://icons.duckduckgo.com/ip3/tradepost.ai.ico",
     "slug": "tradepost-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2178,
     "timeYear": 1960,
     "dailyMinutesDown": {
+      "2024-02-20": 0,
       "2024-01-29": 307,
       "2024-01-17": 24
     }
