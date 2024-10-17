@@ -1,7 +1,7 @@
 url: https://tradepost.ai
-status: up
-code: 200
-responseTime: 883
-lastUpdated: 2024-10-16T23:04:16.081Z
+status: down
+code: 500
+responseTime: 3665
+lastUpdated: 2024-10-17T02:55:13.515Z
 startTime: 2023-10-23T22:05:11.842Z
 generator: Upptime <https://github.com/upptime/upptime>
